@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Emp_Attendance_Project/.idea/Emp_Attendance_Project.iml" filepath="$PROJECT_DIR$/../Emp_Attendance_Project/.idea/Emp_Attendance_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project1.iml" filepath="$PROJECT_DIR$/.idea/Project1.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject1/.idea/ProjectEAS.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject1/.idea/ProjectEAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tkinterEx/.idea/tkinterEx.iml" filepath="$PROJECT_DIR$/../tkinterEx/.idea/tkinterEx.iml" />
+    </modules>
+  </component>
+</project>
